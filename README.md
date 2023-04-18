@@ -5,4 +5,4 @@ At the moment, we have only provided a notebook to reproduce the results (figure
 
 A notebook that demonstrates the training procedure for DAS-N2N using continuous DAS data will be uploaded once the data have been archived online (e.g., on IRIS).
 
-If you would like further guidance on training a DAS-N2N model for your own data, please feel free to get in touch: \href{mailto:sacha.lapins@bristol.ac.uk}{sacha.lapins@bristol.ac.uk}
+If you would like further guidance on training/implementing a DAS-N2N model for your own DAS data, please feel free to get in touch: [sacha.lapins@bristol.ac.uk](mailto:sacha.lapins@bristol.ac.uk)
