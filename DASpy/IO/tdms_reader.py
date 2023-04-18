@@ -300,7 +300,7 @@ class TdmsReader(object):
 
         # Allocate output container
         data = np.empty((ns, nch), dtype=np.dtype(self._data_type))
-        if data.size is 0:
+        if data.size == 0:
             return data
         
         ## 1. Index first block & reshape?
