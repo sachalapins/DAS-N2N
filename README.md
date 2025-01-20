@@ -1,5 +1,5 @@
 # DAS-N2N
-Code repository for paper "DAS-N2N: Machine learning Distributed Acoustic Sensing (DAS) signal denoising without clean data" (https://arxiv.org/abs/2304.08120).
+Code repository for paper "DAS-N2N: Machine learning Distributed Acoustic Sensing (DAS) signal denoising without clean data" ([https://doi.org/10.1093/gji/ggad460](https://doi.org/10.1093/gji/ggad460)).
 
 At the moment, we have only provided a notebook to reproduce the results (figures) in the paper.
 
