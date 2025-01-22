@@ -1,8 +1,10 @@
+**NOTE: This repository is no longer actively maintained. Please see the [DAS-N2N-torch](https://github.com/sachalapins/DAS-N2N-torch) repository for a more streamlined implementation of DAS-N2N and any model updates.**
+
 # DAS-N2N
-Code repository for paper "DAS-N2N: Machine learning Distributed Acoustic Sensing (DAS) signal denoising without clean data" ([https://doi.org/10.1093/gji/ggad460](https://doi.org/10.1093/gji/ggad460)).
+Original code repository for paper "DAS-N2N: Machine learning Distributed Acoustic Sensing (DAS) signal denoising without clean data" ([https://doi.org/10.1093/gji/ggad460](https://doi.org/10.1093/gji/ggad460)).
 
-At the moment, we have only provided a notebook to reproduce the results (figures) in the paper.
+In this repository, we have only provided the original Tensorflow code and an accompanying notebook to reproduce the results (figures) in the paper.
 
-A notebook that demonstrates the training procedure for DAS-N2N using continuous DAS data will be uploaded once the data have been archived online (e.g., on IRIS).
+We recommened using the newer implementation in the [DAS-N2N-torch](https://github.com/sachalapins/DAS-N2N-torch) repository.
 
 If you would like further guidance on training/implementing a DAS-N2N model for your own DAS data, please feel free to get in touch: [sacha.lapins@bristol.ac.uk](mailto:sacha.lapins@bristol.ac.uk)
