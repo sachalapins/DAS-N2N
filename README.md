@@ -1,4 +1,4 @@
-**NOTE: This repository is no longer actively maintained. Please see the [DAS-N2N-torch](https://github.com/sachalapins/DAS-N2N-torch) repository for a more streamlined implementation of DAS-N2N and any model updates.**
+**NOTE: This repository is no longer actively maintained. Please see the [DAS-N2N-torch](https://github.com/sachalapins/DAS-N2N-torch) repository for a more streamlined implementation of DAS-N2N and any model updates. These two repositories will be merged in due course.**
 
 # DAS-N2N
 Original code repository for paper "DAS-N2N: Machine learning Distributed Acoustic Sensing (DAS) signal denoising without clean data" ([https://doi.org/10.1093/gji/ggad460](https://doi.org/10.1093/gji/ggad460)).
